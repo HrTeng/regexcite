@@ -1,2 +1,2 @@
 # regexcite
-What the Package Does (One Line, Title Case)
+String manipulation. Practice purpose.
